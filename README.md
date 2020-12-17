@@ -1,3 +1,3 @@
 # SentimentAnalysisStocks
-sentimentAnalysis for Stock traiding
-Natural Language Understanding is the next hot thing
+sentimentAnalysis for Stock trading
+Natural Language Understanding is the next hot thing!
